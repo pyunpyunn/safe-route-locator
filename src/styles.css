@@ -175,9 +175,9 @@
 }
 
 @utility wordmark-pin {
-  width: 26px;
-  height: 32px;
-  margin: 0 1px -4px 2px;
+  width: 30px;
+  height: 36px;
+  margin: 0 1px -6px 2px;
   flex: 0 0 auto;
   color: var(--color-header-mark);
   filter: drop-shadow(0 2px 3px color-mix(in oklab, var(--header) 55%, transparent));
