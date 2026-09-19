@@ -155,8 +155,8 @@
 
 @utility wordmark {
   position: relative;
-  width: 176px;
-  height: 40px;
+  width: 220px;
+  height: 50px;
   flex: 0 0 auto;
   color: var(--color-header-mark);
 }
@@ -164,9 +164,9 @@
 @utility wordmark-type {
   display: flex;
   align-items: center;
-  height: 31px;
+  height: 40px;
   font-family: var(--font-display);
-  font-size: 17px;
+  font-size: 22px;
   font-weight: 900;
   line-height: 1;
   letter-spacing: 0;
@@ -175,9 +175,9 @@
 }
 
 @utility wordmark-pin {
-  width: 26px;
-  height: 32px;
-  margin: 0 1px -4px 2px;
+  width: 32px;
+  height: 40px;
+  margin: 0 2px -5px 3px;
   flex: 0 0 auto;
   color: var(--color-header-mark);
   filter: drop-shadow(0 2px 3px color-mix(in oklab, var(--header) 55%, transparent));
@@ -185,8 +185,8 @@
 
 @utility wordmark-route {
   position: absolute;
-  inset: auto 0 1px;
+  inset: auto 0 2px;
   width: 100%;
-  height: 10px;
+  height: 12px;
   color: color-mix(in oklab, var(--header-mark) 72%, transparent);
 }
