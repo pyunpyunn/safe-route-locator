@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Render the header logo as reference-traced SVG paths in a dedicated component, not raster media or font glyphs, so the lettering and symbol geometry remain consistent at every size.
