@@ -158,10 +158,10 @@
 
 @utility wordmark {
   display: block;
-  width: 260px;
+  width: 238px;
   max-width: 100%;
   height: auto;
-  aspect-ratio: 2020 / 368;
+  aspect-ratio: 1756 / 368;
   min-width: 0;
   flex: 0 1 auto;
   color: var(--color-header-mark);
